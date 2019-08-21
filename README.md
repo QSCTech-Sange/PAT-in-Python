@@ -1,14 +1,6 @@
----
-title: 可能是全网唯一的 PAT 甲级题解 in Python3
-date: 2019-08-13 21:48:47
-tags: 
-- PAT 
-- 序言
-categories: PAT
-cover: http://pwb80dtf4.bkt.clouddn.com/PAT-cover.webp
-top_img: http://pwb80dtf4.bkt.clouddn.com/PAT-top.webp
-description: 我会用 C++ 和 Python3 两种语言的方式来趣味性地讲解 PAT 甲级的题目。
----
+![PAT](http://pwb80dtf4.bkt.clouddn.com/PAT-top.webp)
+
+# 可能是全网唯一的 PAT 甲级题解 in Python3
 
 最新内容会更新到[我的博客](https://qsctech-sange.github.io/PAT-Preface.html)，里面还有好多好玩的东西，一起来康康吧！
 
