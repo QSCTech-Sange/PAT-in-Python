@@ -1,7 +1,13 @@
 ---
-title: 1062 Talent and Virtue
+title: <Python><PAT> 1062 Talent and Virtue
 date: 2019-08-28 21:40:22
-tags:
+tags: 
+- PAT
+- 题解
+cover: http://pwb80dtf4.bkt.clouddn.com/PAT-cover.webp
+categories: PAT
+top_img: http://pwb80dtf4.bkt.clouddn.com/PAT-top.webp
+description: 排序即可。
 ---
 
 # 题目
