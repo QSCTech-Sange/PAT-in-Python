@@ -1,5 +1,5 @@
 ---
-title: <PAT> 1029 Median
+title: <Python><PAT> 1029 Median
 date: 2019-08-24 09:22:52
 tags: 
 - PAT
