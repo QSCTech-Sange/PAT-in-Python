@@ -1,12 +1,18 @@
 ---
-title: 1108 Finding Average
+title: <Python><PAT> 1108 Finding Average
 date: 2019-09-03 20:42:31
 tags:
+- PAT
+- 题解
+cover: http://pwb80dtf4.bkt.clouddn.com/PAT-cover.webp
+categories: PAT
+top_img: http://pwb80dtf4.bkt.clouddn.com/PAT-top.webp
+description: 好无聊啊这道题
 ---
 
 # 题目
 
-The basic task is simple: given *N* real numbers, you are supposed to calculate their average. But what makes it complicated is that some of the input numbers might not be legal. A **legal**input is a real number in [−1000,1000] and is accurate up to no more than 2 decimal places. When you calculate the average, those illegal numbers must not be counted in.
+The basic task is simple: given *N* real numbers, you are supposed to calculate their average. But what makes it complicated is that some of the input numbers might not be legal. A **legal** input is a real number in [−1000,1000] and is accurate up to no more than 2 decimal places. When you calculate the average, those illegal numbers must not be counted in.
 
 ### Input Specification:
 

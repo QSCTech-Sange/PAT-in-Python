@@ -1,10 +1,9 @@
 ---
-title:  <Python><PAT> 1070 Mooncake
+title: <Python><PAT> 1070 Mooncake
 date: 2019-08-29 20:44:14
 tags: 
 - PAT
 - 题解
-- Python
 cover: http://pwb80dtf4.bkt.clouddn.com/PAT-cover.webp
 categories: PAT
 top_img: http://pwb80dtf4.bkt.clouddn.com/PAT-top.webp

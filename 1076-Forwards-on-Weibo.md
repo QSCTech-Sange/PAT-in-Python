@@ -115,8 +115,7 @@ for id in list(map(int, input().split()[1:])):
     que.put(id)
     level = 1
     while not que.empty() and level <= max_level:
-        length = que.qsize()
-        for i in range(length):
+        for i in range(que.qsize()):
             star = que.get()
             for fan in fans[star]:
                 if not visited[fan]:
